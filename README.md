@@ -8,3 +8,4 @@
 > java -jar ./target/main.jar
 ```
 * The main application log file is available at /main/logs/application.log
+* Postman collection is available in postman_collection folder
